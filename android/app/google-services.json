@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "420466485468",
+    "firebase_url": "https://passcode-auth-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "passcode-auth",
+    "storage_bucket": "passcode-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420466485468:android:835775e63aaf5d3b00ec19",
+        "android_client_info": {
+          "package_name": "com.example.ezsacco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420466485468-oo3huau9jgnobgvf1rgor6i8biitqqqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADJSQ8QbrQFqeIsQfo5Z0bVEW_-ZPPQf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420466485468-oo3huau9jgnobgvf1rgor6i8biitqqqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
